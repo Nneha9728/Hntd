@@ -1,8 +1,10 @@
 A popular theme for the upcoming Halloween holiday is to make haunted house simulations. You will make a choose your own adventure for a haunted house presented as a Twilio chat
-i design it in the visual studio code 
-i add 15 cases or options in it to choose for further playing to the game .
-when you enter your choice it shows you the result of your prior choice and gives you other options to choose
-At the end you will go in the starting of the game and play game.
+Install or open visual studio code.
+If you want to make some changes in the perious code then import any repository from github
+You can make your own project by creating new file with .js extension.
+Then save your code.
+Now install the npm installer without npm we cant run our file.
+Then type npm start and press enter to execute your code.
 
 
 
